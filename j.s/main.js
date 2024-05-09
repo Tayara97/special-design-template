@@ -79,7 +79,7 @@ function randombackground() {
   if (backgroundrand === true) {
     intervalbackground = setInterval(() => {
       let randNum = Math.floor(Math.random() * imgs.length);
-      landingPage.style.backgroundImage = `url("/imgs/${imgs[randNum]}")`;
+      landingPage.style.backgroundImage = `url("./imgs/${imgs[randNum]}")`;
     }, 10000);
   }
 }
