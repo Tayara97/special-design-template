@@ -34,7 +34,7 @@ colorList.forEach((list) => {
 //random-background
 
 let landingPage = document.querySelector(".landing-page");
-let imgs = ["1.jpg", "2.jpg", "3.jpg", "4.jpg"];
+let imgs = ["1.jpg", "2.jpg", "3.jpg", "4.jpg","5.jpg","6.jpg","7.jpg","8.jpg","9.jpg","10.jpg"];
 let backgroundbtns = document.querySelectorAll(".random-background span");
 let backgroundrand = true;
 let intervalbackground;
