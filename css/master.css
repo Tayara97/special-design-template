@@ -165,7 +165,7 @@ body {
 .landing-page {
   min-height: 100vh;
   color: white;
-  background-image: url("/imgs/10.jpg");
+  background-image: url("./imgs/10.jpg");
   background-size: cover;
   position: relative;
   transition: 0.3s;
@@ -730,7 +730,7 @@ body {
 .contact-us {
   padding: 60px 0;
   position: relative;
-  background-image: url("/imgs//contact.jpg");
+  background-image: url("./imgs//contact.jpg");
   background-size: cover;
   text-align: center;
 }
